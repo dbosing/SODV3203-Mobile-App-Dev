@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="full_name">Dawn Bosing</string>
+    <string name="title">Software Development Student</string>
+    <string name="phone">+1 (123) 444 5566</string>
+    <string name="social">\@SoftwareDev</string>
+    <string name="email">d.bosing154@mybvc.ca</string>
+</resources>
